@@ -1,8 +1,5 @@
 '''
     This is a simple program that uses Pandas to analyse demographic data
-
-    Ref: FreeCodeCamp.org - Data Analysis with Python Projects
-         Project 2: Demographic Data Analyzer
 '''
 
 import pandas as pd
