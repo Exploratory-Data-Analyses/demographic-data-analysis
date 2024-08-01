@@ -1,4 +1,3 @@
-```markdown
 # Demographic Data Analysis
 
 ## Overview
