@@ -81,3 +81,7 @@ Contributions are welcome! Please fork the repository and submit pull requests w
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
+The conversation continues on [**Kaggle**](https://www.kaggle.com/code/mrowurakwarteng/demographic-data-analysis)
+
